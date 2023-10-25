@@ -13,16 +13,6 @@ variable "location" {
     description = "location of your resource group"
 }
 
-variable "clientID" {
-    type = string
-    description = "location of your resource group"
-}
-
-variable "clientSecret" {
-    type = string
-    description = "location of your resource group"
-}
-
 variable "tenantID" {
     type = string
     description = "location of your resource group"
